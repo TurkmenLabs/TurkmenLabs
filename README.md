@@ -1,13 +1,4 @@
-# <div align="center">
-  <svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
-    <text x="50" y="55" font-family="Verdana" font-size="50" fill="red">TURKMEN LABS</text>
-    <animate 
-      attributeName="fill" 
-      values="red;blue;green;orange;purple" 
-      dur="5s" 
-      repeatCount="indefinite" />
-  </svg>
-</div>
+# TURKMEN LABS
 
 ## 👋 Salam! Men @TurkmenLabs
 
@@ -44,7 +35,7 @@ Men şu aşakdaky ugurlarda hyzmatdaşlyk etmek isleýärin:
 Meniň bilen şu e-poçta arkaly habarlaşyp bilersiňiz:
 - E-poçta: turkmenlabs@outlook.com
 
-## 😄 Meniň Ýörite Atlandyryşlar
+## 😄 Meniň Ýörite Atlandyryşlarym
 
 Meniň ýörite atlandyryşlarym:
 - Ol/Oňa
@@ -53,8 +44,6 @@ Meniň ýörite atlandyryşlarym:
 ## ⚡ Gyzykly Maglumat
 
 Bilýäňizmi? Aşgabat, dünýäniň iň köp mermer binasy bolan şäherleriniň biri hasaplanýar. Bu ýerde 500-den gowrak ak mermer bina bar!
-
-![Aşgabat Mermer Binasy](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/A%C5%9Fgabat%2C_Turkmenistan.jpg/1200px-A%C5%9Fgabat%2C_Turkmenistan.jpg)
 
 ## 🛠️ Ulanyp bilýän Dillerim we Gurallarym
 
