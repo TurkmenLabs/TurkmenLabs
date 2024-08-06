@@ -3,7 +3,7 @@
     <text x="50" y="55" font-family="Verdana" font-size="50" fill="red">TURKMEN LABS</text>
     <animate 
       attributeName="fill" 
-      values="red;blue;green;orange;purple;red" 
+      values="red;blue;green;orange;purple" 
       dur="5s" 
       repeatCount="indefinite" />
   </svg>
